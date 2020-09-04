@@ -50,7 +50,7 @@
     "chai-as-promised": "^7.1.1",
     "codecov": "^3.5.0",
     "ghooks": "^2.0.4",
-    "marked": "^0.6.3",
+    "marked": "^0.7.0",
     "marked-terminal": "^3.2.0",
     "mocha": "6.1.4",
     "nodemon": "1.19.1",
